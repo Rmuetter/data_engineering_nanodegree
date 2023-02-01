@@ -1,0 +1,9 @@
+{
+	"name": "udacitypipeline",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2ec4ee5-68f3-483f-be76-0994e0bde09c",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
